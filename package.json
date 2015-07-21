@@ -1,0 +1,23 @@
+{
+  "name": "ngbootconfirm",
+  "version": "1.0.0",
+  "description": "An Angularjs directive to show bootstrap style modal confirm box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnurs/ngBootConfirm.git"
+  },
+  "author": "vishnurs <http://vishnurs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishnurs/ngBootConfirm/issues"
+  },
+  "homepage": "https://github.com/vishnurs/ngBootConfirm#readme",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "gulp": "^3.9.0"
+  }
+}

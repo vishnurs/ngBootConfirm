@@ -1,0 +1,16 @@
+{
+  "name": "ngBootConfirm",
+  "version": "1.0.0",
+  "description": "An AngularJs directive to show bootstrap modal confirm box.",
+  "authors": [
+    "vishnurs <http://vishnurs.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
